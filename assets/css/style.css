@@ -86,7 +86,6 @@ nav ul {
 	font-size: larger;
 	font-weight: bolder;
 	font-family: 'Martel Sans', sans-serif;
-
 }
 
 #sub-title {
@@ -1149,7 +1148,7 @@ mark{background-color:hsla(355, 90%, 61%, 0.2);background-color:hsla(var(--color
 	--cd-color-border-h:0;
 	--cd-color-border-s:0%;
 	--cd-color-border-l:92%;
-	--font-primary: 'Source Sans Pro', sans-serif;--schedule-rows-number: 19;
+	--font-primary: 'Source Sans Pro', sans-serif;--schedule-rows-number: 28;
 	--schedule-rows-height: 50px
 }
 
