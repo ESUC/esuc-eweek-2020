@@ -1,5 +1,6 @@
 # esuc-eweek-2020
-This web page is based on https://github.com/CodyHouse/schedule-template.
+This web page is based on https://github.com/CodyHouse/schedule-template
+The art display page is based on https://www.freewebtemplates.com/download/free-website-template/photoartwork-795289567/demo/
 
 We have to work on:
 1. Update the format
